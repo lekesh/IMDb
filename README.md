@@ -4,6 +4,6 @@ Extracted the move data-set from Kaggle to perform Data Cleaning, EDA (Explorato
 
 Libraries used: Pandas, Matplotlib, Seaborn, Numpy and Pyplot.
 
-Drawn some meaningfull conclusions from the visualised data.
+Found some interesting correlations and drawn some meaningfull conclusions from the visualised data.
 
 Future plans: Update the visualisations with Pyplot Express to create interactive charts and utilise the year attribute to apply some time series analysis.
